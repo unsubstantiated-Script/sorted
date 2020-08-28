@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&family=Poppins:wght@500&display=swap");
+
+:root {
+  --first-color: #000000;
+  --second-color: #8bdfdf;
+  --third-color: #aa7980;
+  --fourth-color: #a70c0c;
+  --fifth-color: #363640;
+}
+
+* {
+  box-sizing: border-box;
+}
